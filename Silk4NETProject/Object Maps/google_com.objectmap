@@ -1,0 +1,54 @@
+<ObjectMap version="1">
+  <ObjectMapEntry id="google_com" locator="//BrowserApplication" urlPattern="*google.com*">
+    <ObjectMapEntry id="BrowserWindow" locator="//BrowserWindow">
+      <ObjectMapEntry id="%" locator="//DIV[@textContents=&apos;%&apos;]"/>
+      <ObjectMapEntry id="(" locator="//DIV[@textContents=&apos;(&apos;]"/>
+      <ObjectMapEntry id=")" locator="//DIV[@textContents=&apos;)&apos;]"/>
+      <ObjectMapEntry id="+" locator="//DIV[@textContents=&apos;+&apos;]"/>
+      <ObjectMapEntry id="-" locator="//DIV[@textContents=&apos;−&apos;]"/>
+      <ObjectMapEntry id="0" locator="//DIV[@textContents=&apos;0&apos;]"/>
+      <ObjectMapEntry id="0 Rect" locator="//rect[@fill-opacity=&apos;0&apos;]"/>
+      <ObjectMapEntry id="1" locator="//DIV[@textContents=&apos;1&apos;]"/>
+      <ObjectMapEntry id="2" locator="//DIV[@textContents=&apos;2&apos;]"/>
+      <ObjectMapEntry id="3" locator="//DIV[@textContents=&apos;3&apos;]"/>
+      <ObjectMapEntry id="4" locator="//DIV[@textContents=&apos;4&apos;]"/>
+      <ObjectMapEntry id="4 + 8" locator="//TD[@textContents=&apos;4 + 8&apos;]"/>
+      <ObjectMapEntry id="4 ÷ 0" locator="//TD[@textContents=&apos;4 ÷ 0&apos;]"/>
+      <ObjectMapEntry id="5" locator="//DIV[@textContents=&apos;5&apos;]"/>
+      <ObjectMapEntry id="6" locator="//DIV[@textContents=&apos;6&apos;]"/>
+      <ObjectMapEntry id="7" locator="//DIV[@textContents=&apos;7&apos;]"/>
+      <ObjectMapEntry id="8" locator="//DIV[@textContents=&apos;8&apos;]"/>
+      <ObjectMapEntry id="9" locator="//DIV[@textContents=&apos;9&apos;]"/>
+      <ObjectMapEntry id="AC" locator="//DIV[@textContents=&apos;AC&apos;]"/>
+      <ObjectMapEntry id="Ans" locator="//DIV[@textContents=&apos;Ans&apos;]"/>
+      <ObjectMapEntry id="CE" locator="//DIV[@textContents=&apos;CE&apos;]"/>
+      <ObjectMapEntry id="cos" locator="//DIV[@textContents=&apos;cos&apos;]"/>
+      <ObjectMapEntry id="cwos" locator="//SPAN[@id=&apos;cwos&apos;]"/>
+      <ObjectMapEntry id="Deg" locator="//DIV[@textContents=&apos;Deg&apos;]"/>
+      <ObjectMapEntry id="DIV" locator="//DIV[@textContents=&apos;=&apos;]"/>
+      <ObjectMapEntry id="e" locator="//DIV[@textContents=&apos;e&apos;]"/>
+      <ObjectMapEntry id="EXP" locator="//DIV[@textContents=&apos;EXP&apos;]"/>
+      <ObjectMapEntry id="geometry" locator="//A[@name=&apos;geometry&apos;]"/>
+      <ObjectMapEntry id="graph_heading" locator="//DIV[@id=&apos;graph_heading&apos;]"/>
+      <ObjectMapEntry id="http   www w3 org 20" locator="//svg[@xmlns=&apos;http://www.w3.org/20*&apos;][4]"/>
+      <ObjectMapEntry id="http   www w3 org 202" locator="//svg[@xmlns=&apos;http://www.w3.org/20*&apos;][2]"/>
+      <ObjectMapEntry id="Inv" locator="//DIV[@textContents=&apos;Inv&apos;]"/>
+      <ObjectMapEntry id="ln" locator="//DIV[@textContents=&apos;ln&apos;]"/>
+      <ObjectMapEntry id="log" locator="//DIV[@textContents=&apos;log&apos;]"/>
+      <ObjectMapEntry id="M 13 3 a 9 9 0 0 0 -" locator="//path[@d=&apos;M 13 3 a 9 9 0 0 0 -*&apos;]"/>
+      <ObjectMapEntry id="q" locator="//INPUT[@name=&apos;q&apos;]"/>
+      <ObjectMapEntry id="Rad" locator="//DIV[@textContents=&apos;Rad&apos;]"/>
+      <ObjectMapEntry id="sin −1" locator="//DIV[@textContents=&apos;sin −1&apos;]"/>
+      <ObjectMapEntry id="tan" locator="//DIV[@textContents=&apos;tan&apos;]"/>
+      <ObjectMapEntry id="x y" locator="//DIV[@textContents=&apos;x y&apos;]"/>
+      <ObjectMapEntry id="x!" locator="//DIV[@textContents=&apos;x!&apos;]"/>
+      <ObjectMapEntry id="×" locator="//DIV[@textContents=&apos;×&apos;]"/>
+      <ObjectMapEntry id="÷" locator="//DIV[@textContents=&apos;÷&apos;]"/>
+      <ObjectMapEntry id="π" locator="//DIV[@textContents=&apos;π&apos;]"/>
+      <ObjectMapEntry id="объем цилиндра радиу" locator="//CODE[@textContents=&apos;объем цилиндра радиу*&apos;]"/>
+      <ObjectMapEntry id="Подробнее" locator="//A[@textContents=&apos;Подробнее&apos;]"/>
+      <ObjectMapEntry id="−" locator="//DIV[@textContents=&apos;−&apos;]"/>
+      <ObjectMapEntry id="√" locator="//DIV[@textContents=&apos;√&apos;]"/>
+    </ObjectMapEntry>
+  </ObjectMapEntry>
+</ObjectMap>
